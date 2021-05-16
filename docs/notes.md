@@ -1,10 +1,10 @@
 # Project rhenhw1 notes
 
- 
-This is where you can write notes in markdown if you'd like.
+
+All notes have been commented in the .ipynb file(s) for this assignment ;)
 
 # Data sources
-
+data\raw\TaxInfo.csv
 
 # Data prep
 
